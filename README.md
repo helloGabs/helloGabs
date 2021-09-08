@@ -1,6 +1,6 @@
 ## Oiee!!! Eu sou o Gabriel Cintra Brandão
  <div>
-  <a href="https://github.com/rafaballerini">
+  <a href="https://github.com/helloGabs">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=helloGabs&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
   <img height="150em"src="https://github-readme-stats.vercel.app/api/top-langs/?username=helloGabs&layout=compact&langs_count=7&theme=midnight-purple"/>
   <img align="right" alt="Gabs-yato" height="150em" src="https://cdn.discordapp.com/attachments/755578183377616999/884963534692298782/tenor.gif">
